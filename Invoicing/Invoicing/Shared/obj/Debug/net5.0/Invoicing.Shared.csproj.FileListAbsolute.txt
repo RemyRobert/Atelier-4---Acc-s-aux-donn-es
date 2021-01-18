@@ -33,3 +33,15 @@ D:\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.deps.json
 D:\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.dll
 D:\Invoicing\Invoicing\Shared\bin\Debug\net5.0\ref\Invoicing.Shared.dll
 D:\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.pdb
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.deps.json
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.dll
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\bin\Debug\net5.0\ref\Invoicing.Shared.dll
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\bin\Debug\net5.0\Invoicing.Shared.pdb
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.csprojAssemblyReference.cache
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.AssemblyInfoInputs.cache
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.AssemblyInfo.cs
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.csproj.CoreCompileInputs.cache
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.dll
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\ref\Invoicing.Shared.dll
+D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Shared\obj\Debug\net5.0\Invoicing.Shared.pdb

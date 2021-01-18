@@ -14,6 +14,8 @@ else
     <h2>Sales revenues : <strong>@SalesRevenue €</strong></h2>
 
     <h2>Outstanding : <strong>@Outstanding €</strong></h2>
+
+    <h2>Chiffre d'affaire : <strong>@Ca €</strong></h2>
 }
 
 @code{
@@ -22,6 +24,8 @@ else
 
     private string Outstanding;
 
+    private string Ca;
+
     private bool init = false;
 
     protected override async Task OnInitializedAsync()
@@ -29,6 +33,8 @@ else
         SalesRevenue = await http.GetStringAsync("api/invoices/dashboard/sales");
 
         Outstanding = await http.GetStringAsync("api/invoices/dashboard/outstanding");
+
+        Ca = await http.GetStringAsync("api/invoices/dashboard/ca");
 
         init = true;
 

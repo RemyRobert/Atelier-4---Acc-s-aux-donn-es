@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3LWrz+UA/2aerqDqYAcZZ1xN196puVXydvxQjoBFFaOslUOP4AHqhj6OHuBfZexrC5/GCEU/IqWpMXw1GMKlkA==",
+  "dgSpecHash": "tSKkILFDN+n56SQaDJ8NjLQEB7xmAdq+JvqI8mCLINoSSK0tb+PkYSu7R3/AsnM/B141b6mSPdtwgZdvYTSUBQ==",
   "success": true,
-  "projectFilePath": "D:\\Invoicing\\Invoicing\\Server\\Invoicing.Server.csproj",
+  "projectFilePath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Server\\Invoicing.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rémy\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Rémy\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",

@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\Invoicing\Invoicing\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\Invoicing\Invoicing\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\jetbrains_project\Atelier-4---Acc-s-aux-donn-es\Invoicing\Invoicing\Client\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>

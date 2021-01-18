@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-FWPx51huC\/WJLkKCgoTEa5pzm8+4Aucxg0YuOiuOwkQ=",
       "netstandard.dll": "sha256-2ba2qAAtNUX9Qh5PFXhTMtcD\/Nra\/wyG197\/wrnxElI=",
       "System.Private.CoreLib.dll": "sha256-4wsl1v32v74UB0CTQ6+AdUTdM+9C1VraomgeCjb4Wug=",
-      "Invoicing.Shared.dll": "sha256-pcksrW5Dz91idLlp7ulDhNHycDmwVxPWF5rOnDc4T7U=",
-      "Invoicing.Client.dll": "sha256-yUmoH8CADiEqHmI1waa7CCou7\/Wkse5mjvAaTIyAOto="
+      "Invoicing.Shared.dll": "sha256-9EdJVmnQXZcFZ3DkciwthFXmI3xJqtL6zB6u11djDp8=",
+      "Invoicing.Client.dll": "sha256-25S88S77CSryzSH77OAqLrtY1qgy5smJ971aJ5\/XHwc="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Invoicing.Shared.pdb": "sha256-hIQ9YY\/Y8qYiN8IDSQZXHK\/XNr24TXDTAmKuqsArJy8=",
-      "Invoicing.Client.pdb": "sha256-3B9WlvtbyelOn9Q2zTblQuKJcgJ75yG6D8zgMNkw\/Xw="
+      "Invoicing.Shared.pdb": "sha256-MhGR2sxUzRl50T+WYLk78FvP3VJevcvBjbsfd8Ic5ws=",
+      "Invoicing.Client.pdb": "sha256-Y6PerxrdulDcrQAurQdFCX7ZjLLSFidad\/B+vSVufWs="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-nXByiCO4+RYyh+A88TSSZDwAJMF7M7Up\/h6dfAA19C8=",

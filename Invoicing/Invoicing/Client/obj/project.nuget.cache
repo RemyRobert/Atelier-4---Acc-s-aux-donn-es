@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BN8SUcoCOd3cqGNgPwbCHStK3TQG71aZFZJnLCbicwGpBFntPxP9a6EAYIri3gg/VcoTAssT6mgP267UAy4lGA==",
+  "dgSpecHash": "o8ODpEUi35NByp1fIp4WoIcrV0f9xOAP04E8G+Qu3mBuCV252ILlnojbAXDGszpc08pBENwhEJDMKkqrHsXVCA==",
   "success": true,
-  "projectFilePath": "D:\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
+  "projectFilePath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rémy\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "C:\\Users\\Rémy\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",

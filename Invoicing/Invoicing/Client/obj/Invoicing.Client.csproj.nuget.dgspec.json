@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj": {}
+    "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj": {}
   },
   "projects": {
-    "D:\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj": {
+    "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
+        "projectUniqueName": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
         "projectName": "Invoicing.Client",
-        "projectPath": "D:\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
+        "projectPath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\Invoicing.Client.csproj",
         "packagesPath": "C:\\Users\\Rémy\\.nuget\\packages\\",
-        "outputPath": "D:\\Invoicing\\Invoicing\\Client\\obj\\",
+        "outputPath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj": {
-                "projectPath": "D:\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj"
+              "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj": {
+                "projectPath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "D:\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj": {
+    "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj",
+        "projectUniqueName": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj",
         "projectName": "Invoicing.Shared",
-        "projectPath": "D:\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj",
+        "projectPath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\Invoicing.Shared.csproj",
         "packagesPath": "C:\\Users\\Rémy\\.nuget\\packages\\",
-        "outputPath": "D:\\Invoicing\\Invoicing\\Shared\\obj\\",
+        "outputPath": "D:\\jetbrains_project\\Atelier-4---Acc-s-aux-donn-es\\Invoicing\\Invoicing\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

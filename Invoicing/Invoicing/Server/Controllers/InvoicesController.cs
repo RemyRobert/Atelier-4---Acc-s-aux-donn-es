@@ -70,6 +70,11 @@ namespace Invoicing.Server.Controllers
                 decimal sales = _data.AllInvoices.Sum(invoice => invoice.Amount);
                 return sales;
             }
+            else if (value == "ca")
+            {
+                decimal ca = _data.AllInvoices.Sum(invoice => invoice.Paid);
+                return ca;
+            }
             else
             {
                 return BadRequest(ModelState.Values);
